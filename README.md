@@ -5,7 +5,10 @@ This is a super secret, open source project to design a PCB badge for [Make Zuri
 ## How to use
 This is an extension board to the [BBC micro:bit](https://www.microbit.co.uk). It's intended to be a 'bolt-and-go' extension board, saving the need for the awkward edge connector normally used to extend the micro:bit. The board must be connected on the top side of the micro:bit, because the small back pads are NOT connected.
 
-Features:
+To use, simply place on the top side of the micro:bit, and bolt it real tight.
+Then, use the micro:bit as usual.
+
+### Features
   * Breaks out all 20 pins into a standard 2.54mm 2x10 pin header area.
   * Routes all pins to an identical edge connector at the bottom to allow stacking more boards or plug to the edge connector.
   * Connections for optionals:
