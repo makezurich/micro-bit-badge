@@ -15,3 +15,5 @@ The renders are courtesy of [OSH Park](https://oshpark.com).
 ### Top & bottom solder marks
 ![Board top](images/top-solder-mask.png) ![Board bottom](images/bottom-solder-mask.png)
 
+## Credits
+Thanks to [Urs Marti](https://github.com/urs8000/) and [Owen Brotherhood](https://github.com/OwenBrotherwood) for all the support during the development of this board.
