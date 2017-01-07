@@ -2,6 +2,17 @@
 
 This is a super secret, open source project to design a PCB badge for [Make Zurich 2017](https://makezurich.ch).
 
+## How to use
+This is an extension board to the [BBC micro:bit](https://www.microbit.co.uk). It's intended to be a 'bolt-and-go' extension board, saving the need for the awkward edge connector normally used to extend the micro:bit. The board must be connected on the top side of the micro:bit, because the small back pads are NOT connected.
+
+Features:
+  * Breaks out all 20 pins into a standard 2.54mm 2x10 pin header area.
+  * Routes all pins to an identical edge connector at the bottom to allow stacking more boards or plug to the edge connector.
+  * Connections for optionals:
+    * [CR2450 battery holder](https://www.aliexpress.com/item/100Pcs-Horizontal-Through-Hole-CR2450-Coin-Button-Cell-Lithium-Battery-Case-Holder-Box-Base-Socket/32772425916.html) on the back side.
+    * Buzzer on the front side.
+
+
 ## Board renders
 
 The renders are courtesy of [OSH Park](https://oshpark.com).
