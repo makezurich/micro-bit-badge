@@ -17,7 +17,7 @@ Then, use the micro:bit as usual.
     * [CR2450 battery holder](https://www.aliexpress.com/item/100Pcs-Horizontal-Through-Hole-CR2450-Coin-Button-Cell-Lithium-Battery-Case-Holder-Box-Base-Socket/32772425916.html) on the back side.
     * 5x M3 [Nuts](https://www.aliexpress.com/item/100pcs-lot-6MM-hollow-M3-copper-double-pass-six-corner-pillars-isolation-column/32701040166.html) and [Bolts](https://www.aliexpress.com/item/100PCS-LOT-5-6-Copper-Pillars-10MM-Height-M3-Thread-6-mm/32702087632.html).
 
-### micro:bit badge in Make Zurich 2017
+## micro:bit badge in Make Zurich 2017
 During preparations for the [Make Zurich 2017 hackathon](https://makezurich.ch), we noticed that it would be hard for teams to split the content of their hardware kits after the event was completed; so the idea of a hadrware badge that is actually useful for attendees to bring home was born.
 
 We brainstormed different ideas, and eventually settled on using the micro:bit as the microcontroller of our badge, mainly due to the form factor, the LED matrix and the low cost. We started building designs in the organization team, and bouncing ideas back and forth with the micro:bit community until we reached an idea we liked.
